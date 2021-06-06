@@ -3,7 +3,7 @@ Python, ML concepts, NLP concepts
 
 The text document classification is done on one of the most famous datasets called Reuters corpus dataset.
 
-Multilabel classification is performed using different classification algorithms like Random Forest, Decision Tree, Neural Network, and SVM.
+Multilabel classification is performed using different classification algorithms like Random Forest, Decision Tree, Neural Network, and SVM in step 1.
 
 The documents are clustered and foe each cluster a different classifier algorithm is applied and the quality of each cluster is evaluated.
 
